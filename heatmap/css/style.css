@@ -1,0 +1,18 @@
+#palette {
+    position: absolute;
+    left: 1px;
+    top: 1px;
+}
+
+#back {
+    position: absolute;
+    left: 1px;
+    top: 10px;
+}
+
+#main {
+    position: absolute;
+    left: 1px;
+    top: 10px;
+    opacity: 0.65;
+}
